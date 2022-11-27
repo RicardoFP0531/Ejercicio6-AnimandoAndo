@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    height: 90vh;
+    background-color: #323232;
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+p {
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: bold;
+    max-width: 900px;
+    padding-top: 180px;
+    color: white;
+    transform: rotate(1deg);
+    
+    /* aquí va el atributo animation: */
+  }
+
+  
